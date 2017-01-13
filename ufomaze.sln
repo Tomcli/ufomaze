@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{85F8B7AA-AC95-6A01-2650-65B32B1E0885}") = "ufomaze", "Assembly-CSharp.csproj", "{5945C2FC-262B-9F6B-B772-8A5D492A4AB9}"
+EndProject
+Project("{85F8B7AA-AC95-6A01-2650-65B32B1E0885}") = "ufomaze", "Assembly-CSharp-Editor.csproj", "{CC8CFFD9-D8BA-A519-748D-F55F19E0DBA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5945C2FC-262B-9F6B-B772-8A5D492A4AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5945C2FC-262B-9F6B-B772-8A5D492A4AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5945C2FC-262B-9F6B-B772-8A5D492A4AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5945C2FC-262B-9F6B-B772-8A5D492A4AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC8CFFD9-D8BA-A519-748D-F55F19E0DBA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8CFFD9-D8BA-A519-748D-F55F19E0DBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8CFFD9-D8BA-A519-748D-F55F19E0DBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8CFFD9-D8BA-A519-748D-F55F19E0DBA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
